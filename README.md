@@ -25,5 +25,6 @@ Order of Labs
 3. Data wrangling.ipynb
 4. Exploratory Data Analysis with SQL.ipynb
 5. EDA with Pandas and Matplotlib.ipynb
-6. Interactive Visual Analytics with Folium.ipynb
+6. Interactive Visual Analytics with Folium
+7. Interactive Dashboard by Plotly Dash
 7. Machine Learning Prediction Lab.ipynb
