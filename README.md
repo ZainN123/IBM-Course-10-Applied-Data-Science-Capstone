@@ -20,4 +20,10 @@ In this module, you will compile all of your activities into one place and deliv
 
 Order of Labs
 
-1. 
+1. Data Collection API Lab.ipynb
+2. Data Collection with Web Scraping.ipynb
+3. Data wrangling.ipynb
+4. Exploratory Data Analysis with SQL.ipynb
+5. EDA with Pandas and Matplotlib.ipynb
+6. Interactive Visual Analytics with Folium.ipynb
+7. Machine Learning Prediction Lab.ipynb
