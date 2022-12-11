@@ -17,3 +17,7 @@ In this module, you will use machine learning to determine if the first stage of
 Week 5 - Present Your Data-Driven Insights
 
 In this module, you will compile all of your activities into one place and deliver your data-driven insights to determine if the first stage of Falcon 9 will land successfully.
+
+Order of Labs
+
+1. 
